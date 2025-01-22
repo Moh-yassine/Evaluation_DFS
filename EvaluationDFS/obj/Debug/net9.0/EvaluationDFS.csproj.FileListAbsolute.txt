@@ -1,0 +1,14 @@
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/bin/Debug/net9.0/EvaluationDFS
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/bin/Debug/net9.0/EvaluationDFS.deps.json
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/bin/Debug/net9.0/EvaluationDFS.runtimeconfig.json
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/bin/Debug/net9.0/EvaluationDFS.dll
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/bin/Debug/net9.0/EvaluationDFS.pdb
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.AssemblyInfoInputs.cache
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.AssemblyInfo.cs
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.csproj.CoreCompileInputs.cache
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.dll
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/refint/EvaluationDFS.dll
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.pdb
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/EvaluationDFS.genruntimeconfig.cache
+/Users/moh/RiderProjects/EvaluationDFS/EvaluationDFS/obj/Debug/net9.0/ref/EvaluationDFS.dll
